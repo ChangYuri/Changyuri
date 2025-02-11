@@ -1,19 +1,11 @@
-## Hi there 👋
+## About me: 👋
 
-<!--
-**ChangYuri/Changyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am Yuri Changa, a Master's candidate at the University of Chicago, studying Computer Science and Public Policy.
+- Prior to this, I held Bachelor's degrees in Political Science and Economics from Peking University, where I was interested in the economics of innovation, industrial policy, and political economy.
+- I hope to use my specialized and professional data analysis skills to increase social welfare.
+### Contacts
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changyuri)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ChangYuri)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurichanguchi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](crr20020601@gmail.com)
 
